@@ -19,3 +19,4 @@ Place all images of use (content and style as described below) in the **/images*
 ![Terminal Image](readme_terminal.png)
 
 ### Breakdown and Analysis
+### Citations
