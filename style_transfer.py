@@ -16,7 +16,7 @@ from tensorflow.python.keras import layers
 from tensorflow.python.keras import backend as K
 
 def locateImage(name):
-    path = "/Users/stephen/Desktop/Computer Science/Style Transfer/images/"
+    path = "images/"
     return (path + name)
 
 def load_img(path_to_img):
