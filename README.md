@@ -5,10 +5,6 @@
 | :---         |     :---:      |          ---: |
 | ![](images/Arches.JPG)|![](images/the-scream.jpg)| ![](the-scream-and-arches.jpeg)   |
 
-Content Image              |  Style Image             | Product Image                 |
-:-------------------------:|:-------------------------:-------------------------------:
-![](images/Arches.JPG)     |![](images/the-scream.jpg)|![](the-scream-and-arches.jpeg)|
-
 ### Dependencies
 * [Matplotlib](https://matplotlib.org/stable/users/installing.html): popular pythonic plotting library 
 * [Numpy](https://numpy.org/install/): popular package for scientific computing, data science objects
