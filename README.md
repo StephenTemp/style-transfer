@@ -1,9 +1,9 @@
 # Style Transfer
 ## Stylize Images in the Aesthetic of Other Works
 
-Content Image              |  Style Image
-:-------------------------:|:-------------------------:
-![](images/Arches.JPG)  |  ![](images/the-scream.jpg)
+Content Image              |  Style Image             | Product Image     |
+:-------------------------:|:-------------------------:--------------------
+![](images/Arches.JPG)  |  ![](images/the-scream.jpg) |![](the-scream-and-arches.jpeg)|
 
 ### Dependencies
 * [Matplotlib](https://matplotlib.org/stable/users/installing.html): popular pythonic plotting library 
