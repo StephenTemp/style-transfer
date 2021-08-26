@@ -3,7 +3,7 @@
 
 Content Image              |  Style Image
 :-------------------------:|:-------------------------:
-![](<img src='images/Arches.JPG' width='48'>)  |  ![](<img src='images/the-scream.jpg')
+![](<img src='images/Arches.JPG' width='400'>)  |  ![](<img src='images/the-scream.jpg'>)
 
 ### Dependencies
 * [Matplotlib](https://matplotlib.org/stable/users/installing.html): popular pythonic plotting library 
