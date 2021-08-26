@@ -1,6 +1,10 @@
 # Style Transfer
 ## Stylize Images in the Aesthetic of Other Works
 
+| Content Image  | Style Image  | Product Image |
+| :---         |     :---:      |          ---: |
+| ![](images/Arches.JPG)|![](images/the-scream.jpg)| ![](the-scream-and-arches.jpeg)   |
+
 Content Image              |  Style Image             | Product Image                 |
 :-------------------------:|:-------------------------:-------------------------------:
 ![](images/Arches.JPG)     |![](images/the-scream.jpg)|![](the-scream-and-arches.jpeg)|
