@@ -5,8 +5,6 @@ mpl.rcParams['axes.grid'] = False
 import numpy as np
 from PIL import Image
 import time
-import functools
-import os
 import sys
 
 import tensorflow as tf
